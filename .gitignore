@@ -8,3 +8,6 @@
 /captures
 .externalNativeBuild
 /.idea/
+/keystore.properties
+app/libs/
+app/release/
